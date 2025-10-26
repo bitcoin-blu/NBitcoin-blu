@@ -8,6 +8,7 @@ Currently supported altcoins are:
 * BitCore
 * Dash
 * Dogecoin
+* BitcoinBlu
 * Verge
 * Dystem
 * Feathercoin
